@@ -1,8 +1,8 @@
 package router
 
 import (
-	"go_api/handlers"
-	"go_api/middleware"
+	"go-api/handlers"
+	"go-api/middleware"
 
 	"github.com/gorilla/mux"
 )

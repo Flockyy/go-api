@@ -4,10 +4,10 @@ import (
 	"log"
 	"net/http"
 
-	"go_api/handlers"
-	"go_api/models"
-	"go_api/router"
-	"go_api/storage"
+	"go-api/handlers"
+	"go-api/models"
+	"go-api/router"
+	"go-api/storage"
 )
 
 func main() {

@@ -34,8 +34,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"go_api/models"
-	"go_api/storage"
+	"go-api/models"
+	"go-api/storage"
 
 	"github.com/gorilla/mux"
 )

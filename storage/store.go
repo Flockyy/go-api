@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"go_api/models"
+	"go-api/models"
 
 	"github.com/google/uuid"
 )
